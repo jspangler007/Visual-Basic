@@ -1,0 +1,11 @@
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\bin\Debug\TestGit-Project.exe.config
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\bin\Debug\TestGit-Project.exe
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\bin\Debug\TestGit-Project.pdb
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\bin\Debug\TestGit-Project.xml
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit-Project.vbprojResolveAssemblyReference.cache
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit_Project.Form1.resources
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit_Project.Resources.resources
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit-Project.vbproj.GenerateResource.Cache
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit-Project.exe
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit-Project.xml
+C:\Users\spanglerj.IST-SIDNEY1\Documents\Visual-Basic\TestGit-Project\TestGit-Project\obj\Debug\TestGit-Project.pdb
